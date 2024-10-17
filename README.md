@@ -11,6 +11,7 @@ OR
 -> _**MonteCarlo.exe**_ (Windows)
 
 The Monte Carlo method is a statistical technique that allows us to estimate numerical values through random sampling. One of its classic applications is estimating the value of π (pi) using a geometric approach.
+![image](https://github.com/user-attachments/assets/66ce7c37-b860-4093-9233-8040dec1f370)
 
 
 Why Monte Carlo?
