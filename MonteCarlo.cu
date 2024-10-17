@@ -79,13 +79,13 @@ int main() {
     // Clean up
     cudaFree(d_globalCount);
 
-    // Estimate π
+    // Estimate Pi
     double piEstimate = 4.0 * h_globalCount / (double)numSamples;
 
     // Print results
     printf("Total points inside circle: %d\n", h_globalCount);
-    printf("Estimated value of π: %f\n", piEstimate);
-    printf("Number of points generated: %d\n", numSamples);
+    printf("Estimated value of Pi : %f\n", piEstimate);
+    printf("Number of points generated : %d\n", numSamples);
     
     // Print radius value correctly
     float radius;
